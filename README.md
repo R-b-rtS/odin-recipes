@@ -11,7 +11,6 @@ Every change is committed clearly and intentionally to reflect my progress.
 I’ve included comments and notes throughout the codebase on:
 
 Areas I struggled with
-
 Concepts I had to revisit and relearn
 
 Outcome
